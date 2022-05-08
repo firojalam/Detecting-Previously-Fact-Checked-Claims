@@ -1,0 +1,9 @@
+{
+    "pretrained_weights": "bert-large-nli-stsb-mean-tokens", 
+    "pooling_layer": -1,
+    "pooling_strategy": "reduce-mean",
+    "vclaim_fpath": "../data/politifact/vclaim.npy",
+    "vclaim_text_fpath": "../data/politifact/vclaim.text.npy",
+    "vclaim_title_fpath": "../data/politifact/vclaim.title.npy", 
+    "temp":""
+}

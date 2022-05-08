@@ -1,0 +1,8 @@
+36	United States Steel announced a massive infusion of cash.	1776	U.S. Steel just announced that they are building six new steel mills.	CLEAN_HARD
+37	They're opening up seven different plants.	1776	U.S. Steel just announced that they are building six new steel mills.	CONTEXT_DEPENDENT
+651	Canada charges us close to 300% tariffs for dairy products going into Canada, which is essentially saying we don't want your dairy products  this is a wall.	1968	Canada charges the U.S. a 270% tariff on Dairy Products! They didnt tell you that, did they? Not fair to our farmers!	CLEAN_HARD
+666	When we make a car, we sell it into China, and there's a 25% tariff.	2210	When a car is sent to the United States from China, there is a Tariff to be paid of 2 12%. When a car is sent to China from the United States, there is a Tariff to be paid of 25%.	CLEAN
+570	The United States is paying close to 90% of the cost of protecting Europe, and I think that's wonderful.	1865	The United States was paying for anywhere from 70 to 90 percent of (NATO), depending on the way you calculate.	CLEAN_HARD
+314	And by the way, the wall right now, that wall is coming along.	2230	Weve started building the wall.	CLEAN
+320	It's going up and we're getting it built.	2230	Weve started building the wall.	CLEAN
+340	I have almost 400 people that haven't been approved by their slowwalking.	2298	Says Democratic obstruction is the reason why "many important positions in government are unfilled."	CONTEXT_DEPENDENT

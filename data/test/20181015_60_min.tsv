@@ -1,0 +1,21 @@
+1	Do you still think that climate change is a hoax?	7505	Global warming is a hoax.	PART_OF
+1	Do you still think that climate change is a hoax?	4880	Says "Donald Trump says climate change is a hoax invented by the Chinese."	PART_OF
+4	I don't think it's a hoax, I think there's probably a difference.	7505	Global warming is a hoax.	PART_OF
+4	I don't think it's a hoax, I think there's probably a difference.	4880	Says "Donald Trump says climate change is a hoax invented by the Chinese."	PART_OF
+5	But I don't know that it's manmade.	4880	Says "Donald Trump says climate change is a hoax invented by the Chinese."	PART_OF
+5	But I don't know that it's manmade.	4880	Says "Donald Trump says climate change is a hoax invented by the Chinese."	PART_OF
+209	I told President Xi we cannot continue to have China take $500 billion a year out of the United States in the form of trade and others things.	2257	Last year we lost $500 billion on trade with China.	CLEAN
+209	I told President Xi we cannot continue to have China take $500 billion a year out of the United States in the form of trade and others things.	5752	Were losing now over $500 billion a year in terms of imbalance with China.	CLEAN_HARD
+209	I told President Xi we cannot continue to have China take $500 billion a year out of the United States in the form of trade and others things.	2306	We do have a Trade Deficit with Canada, as we do with almost all countries (some of them massive).	CLEAN_HARD
+264	We shouldn't be paying almost the entire cost of NATO to protect Europe.	1865	The United States was paying for anywhere from 70 to 90 percent of (NATO), depending on the way you calculate.	CLEAN
+300	I'm the one that gave Ukraine offensive weapons and tank killers.	2385	I have been much tougher on Russia than Obama, just look at the facts. Total Fake News!	CLEAN_HARD
+373	They wouldn't be able to help me at all.	4261	Says Donald Trump "publicly invited Putin to hack into Americans (emails)."	PART_OF
+397	What about the forced separation of children from their migrant children	1952	The Trump administrations policy of separating families is "the same way Barack Obama did it."	PART_OF
+397	What about the forced separation of children from their migrant children	2021	A "horrible law" requires that children be separated from their parents "once they cross the Border into the U.S."	PART_OF
+401	the same as the Obama law.	1952	The Trump administrations policy of separating families is "the same way Barack Obama did it."	PART_OF
+401	the same as the Obama law.	2021	A "horrible law" requires that children be separated from their parents "once they cross the Border into the U.S."	PART_OF
+402	You know, Obama had the same thing.	1952	The Trump administrations policy of separating families is "the same way Barack Obama did it."	PART_OF
+402	You know, Obama had the same thing.	2021	A "horrible law" requires that children be separated from their parents "once they cross the Border into the U.S."	PART_OF
+405	You launched that the zero tolerance policy to deter families with children coming	1952	The Trump administrations policy of separating families is "the same way Barack Obama did it."	CONTEXT
+405	You launched that the zero tolerance policy to deter families with children coming	2021	A "horrible law" requires that children be separated from their parents "once they cross the Border into the U.S."	CONTEXT
+86	There has been no administration in the history of our country, and I say this openly and proudly, that in its first two years	2561	We have signed more legislation than anybody. We broke the record of Harry Truman.	CONTEXT_DEPENDENT
