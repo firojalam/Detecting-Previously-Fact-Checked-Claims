@@ -1,6 +1,6 @@
-# Fact-Checking-and-Verification-in-Debates
+# Detecting Previously Fact Checked Claims
 
-This repository contains a dataset and experimental scripts associated the work ["The Role of Context in Detecting Previously Fact-Checked Claims"](https://arxiv.org/abs/2104.07423).
+This repository contains a dataset and experimental scripts associated the work ["The Role of Context in Detecting Previously Fact-Checked Claims"](https://arxiv.org/abs/2104.07423) accepted at NAACL (Findings), 2022.
 
 
 
