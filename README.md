@@ -1,8 +1,9 @@
 # Detecting Previously Fact Checked Claims
 
 This repository contains a dataset and experimental scripts associated the work ["The Role of Context in Detecting Previously Fact-Checked Claims"](https://arxiv.org/abs/2104.07423) accepted at NAACL (Findings), 2022.
+The paper focuses on detecting previously fact-checked claims based on the input claims. We focus on claims made in a political debate and we study the impact of modeling the context of the claim: both on the source side, i.e., in the debate, as well as on the target side, i.e., in the fact-checking explanation document.
 
-
+Code and dataset for a similar work can be found in ["That is a Known Lie: Detecting Previously Fact-Checked Claims"](https://github.com/sshaar/That-is-a-Known-Lie). You can find the paper in this link, https://www.aclweb.org/anthology/2020.acl-main.332.pdf.
 
 
 __Table of Contents:__
